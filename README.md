@@ -40,3 +40,5 @@ ProB: open `models/re_OPEN_L4_prob.mch` and check the formulas in
 
 ## Citation
 [Citation details will be added upon publication.]
+
+Copyright © 2006-2025 GlobalPlatform, Inc. All Rights Reserved
